@@ -1,6 +1,28 @@
 # Baby Ball Bounce (2D Game in Java)
 
-Baby Ball Bounce is a simple yet fun 2D game developed in Java as a training project, written on Eclipse IDE. The objective of the game is to prevent a bouncing ball from reaching the bottom of the screen.
+## Table of Contents
+- [About The Project](#about-the-project)
+- [Technical Stack](#technical-stack)
+- [Project Structure](#project-structure)
+- [How to Play](#how-to-play)
+- [License](#license)
+
+## About The Project
+
+Baby Ball Bounce is a simple yet fun 2D game developed in Java as a training project. The objective of the game is to prevent a bouncing ball from reaching the bottom of the screen.
+
+## Technical Stack
+
+The game is built using the following technologies and components:
+
+- **Programming Language**: Java
+- **Libraries and Frameworks**:
+    - Swing
+    - AWT (Abstract Window Toolkit)
+    - Java 2D
+- **Development Environment**: Eclipse IDE
+- **Version Control**: Git
+- **Build System**: Maven
 
 ## Project Structure
 
